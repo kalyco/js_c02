@@ -3,7 +3,7 @@
 ##Chapter 2
 ###BASIC JAVASCRIPT INSTRUCTIONS
 
-
-#####string variables
-#####
-#####
+#### string variable conventions
+#### numeric variable conventions
+#### boolean variable conventions
+#### quote conventions
