@@ -9,5 +9,5 @@
 #### quote conventions
 #### updating
 #### array values
-#### expresions
+#### expressions
 #### operators
