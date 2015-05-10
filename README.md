@@ -7,3 +7,7 @@
 #### numeric variable conventions
 #### boolean variable conventions
 #### quote conventions
+#### updating
+#### array values
+#### expresions
+#### operators
